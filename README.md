@@ -6,7 +6,7 @@
 	<meta property="og:title" content="Hossein Moradzadeh">
 	<meta property="og:description" content="My Personal CLI Website">
 	<meta property="og:image" content="https://raw.githubusercontent.com/Hossein-s/Hossein-s.github.io/master/screenshot/Hossein.png">
-	<! --<meta property="og:url" content="http://hossein-moradzadeh.github.io">-->
+	<meta property="og:url" content="http://hossein-moradzadeh.github.io">
 	<meta name="twitter:title" content="Hossein Moradzadeh">
 	<meta name="twitter:description" content="My Personal CLI Website">
 	<meta name="twitter:image" content="https://raw.githubusercontent.com/Hossein-s/Hossein-s.github.io/master/screenshot/Hossein.png">
